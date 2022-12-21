@@ -6,7 +6,7 @@ import com.example.filmsapp.datos.RepositorioPeliculas;
 import com.example.filmsapp.modelo.Pelicula;
 
 public class AdaptadorPeliculasDB extends AdaptadorPeliculas{
-    protected Cursor cursor;
+    protected Cursor ;
 
     public AdaptadorPeliculasDB(RepositorioPeliculas peliculas, Cursor cursor) {
         super(peliculas);
